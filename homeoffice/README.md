@@ -14,7 +14,7 @@
 
 ### 单元测试（Junit+mock+代码覆盖率）
 1、[视频-如何使用Mock进行单元测试](https://www.bilibili.com/video/BV1np4y1W77z?spm_id_from=333.337.search-card.all.click)  
-2、[文档-深入学习Java单元测试](https://github.com/zhihai-tu/zhihai-tu.github.io/tree/main/reponame/docs/深入学习java单元测试)  
+2、[文档-深入学习Java单元测试](https://github.com/zhihai-tu/zhihai-tu.github.io/tree/main/reponame/docs/深入学习java单元测试.pdf)  
 
 
 ***
